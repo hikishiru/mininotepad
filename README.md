@@ -1,5 +1,3 @@
----
-
 ````markdown
 # 📝 Mini Notepad in Python
 
