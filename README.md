@@ -80,13 +80,6 @@ This project is distributed under the **MIT** license — feel free to use it wi
 
 ---
 
-Author: **YOUR NAME**
+Author: **stplvq**
 
-```
-
----
-
-Если хочешь, я могу сейчас сделать **ещё красивее** — с иконками, эмодзи и примером скриншотов, чтобы твой GitHub-репозиторий выглядел как у профи.  
-
-Хочешь, сделаем?
 ```
